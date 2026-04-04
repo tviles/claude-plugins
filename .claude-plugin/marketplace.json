@@ -1,0 +1,28 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "tviles-plugins",
+  "description": "Tyler Viles' Claude Code plugins",
+  "version": "0.1.0",
+  "owner": {
+    "name": "Tyler Viles",
+    "url": "https://github.com/tviles"
+  },
+  "plugins": [
+    {
+      "name": "skillify",
+      "description": "Capture successful conversation patterns as reusable skills and commands. The generative counterpart to hookify.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Tyler Viles",
+        "url": "https://github.com/tviles"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tviles/skillify.git"
+      },
+      "category": "development",
+      "tags": ["skills", "commands", "capture", "generative", "patterns"],
+      "homepage": "https://github.com/tviles/skillify"
+    }
+  ]
+}
