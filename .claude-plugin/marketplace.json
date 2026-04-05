@@ -11,7 +11,7 @@
     {
       "name": "skillify",
       "description": "Capture successful conversation patterns as reusable skills and commands. The generative counterpart to hookify.",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "author": {
         "name": "Tyler Viles",
         "url": "https://github.com/tviles"
@@ -21,7 +21,13 @@
         "url": "https://github.com/tviles/skillify.git"
       },
       "category": "development",
-      "tags": ["skills", "commands", "capture", "generative", "patterns"],
+      "tags": [
+        "skills",
+        "commands",
+        "capture",
+        "generative",
+        "patterns"
+      ],
       "homepage": "https://github.com/tviles/skillify"
     }
   ]
