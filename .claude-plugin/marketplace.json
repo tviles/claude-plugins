@@ -29,6 +29,30 @@
         "patterns"
       ],
       "homepage": "https://github.com/tviles/skillify"
+    },
+    {
+      "name": "dev-pipeline",
+      "description": "AI development workflow plugin — routes coding tasks through specialized cookbooks (research, plan, implement, review, debug, commit, PR, triage) with agent-scoped safety hooks, autonomous rule enforcement, and task-list persistence.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Tyler Viles",
+        "url": "https://github.com/tviles"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tviles/dev-pipeline.git"
+      },
+      "category": "development",
+      "tags": [
+        "development",
+        "workflow",
+        "planning",
+        "code-review",
+        "tdd",
+        "github",
+        "autonomous"
+      ],
+      "homepage": "https://github.com/tviles/dev-pipeline"
     }
   ]
 }
